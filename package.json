@@ -1,7 +1,7 @@
 {
   "name": "wp-job-manager",
   "title": "WP Job Manager",
-  "version": "1.28.0",
+  "version": "1.29.2",
   "homepage": "http://wordpress.org/plugins/wp-job-manager/",
   "license": "GPL-2.0+",
   "repository": "automattic/wp-job-manager",
@@ -31,7 +31,7 @@
     "grunt-wp-i18n": "~0.5.4",
     "grunt-wp-readme-to-markdown": "^2.0.0",
     "grunt-zip": "^0.17.1",
-    "mixtape": "git+https://github.com/Automattic/mixtape.git#3a84400af7fd0004102f7f63a50d2dd4f441e273"
+    "mixtape": "git+https://github.com/Automattic/mixtape.git#faca4e486ae88661bd642c1b44e058b9bc461fa2"
   },
   "engines": {
     "node": ">=0.8.0",
